@@ -38,13 +38,13 @@ class App extends React.Component {
             </div>
           </div>
           <div className="hero-image">
-            <img src="./images/medium-image.png" alt=""/>
+            <img src="./images/medium-image.png" alt="Colourful illustration of people in a garden"/>
           </div>
         </div>
         <div className="article-container">
           <div className="article">
             <div className="article-image">
-              <img src="./images/medium-image-puff-1.jpeg" alt=""/>
+              <img src="./images/medium-image-puff-1.jpeg" alt="Photo of a playground"/>
             </div>
             <div className="article-text">
               <div className="article-text-main">
@@ -53,7 +53,7 @@ class App extends React.Component {
               </div>
               <div className="article-text-byline">
                 <div className="article-text-byline-image">
-                  <img src="./images/writer-1.png" alt=""/>
+                  <img src="./images/writer-1.png" alt="Author avatar"/>
                 </div>
                 <div className="article-text-byline-signature">
                   <div className="article-text-byline-signature-name">
@@ -69,14 +69,14 @@ class App extends React.Component {
                   </div>
                 </div>
                 <div className="article-text-byline-bookmark">
-                  <img src="./images/bookmark.png" alt=""/>
+                  <img src="./images/bookmark.png" alt="Bookmark icon"/>
                 </div>
               </div>
             </div>
           </div>
           <div className="article">
             <div className="article-image">
-              <img src="./images/medium-image-puff-2.png" alt=""/>
+              <img src="./images/medium-image-puff-2.png" alt="Simplified illustration of a transportation system"/>
             </div>
             <div className="article-text">
               <div className="article-text-main">
@@ -85,7 +85,7 @@ class App extends React.Component {
               </div>
               <div className="article-text-byline">
                 <div className="article-text-byline-image">
-                  <img src="./images/writer-2.jpeg" alt=""/>
+                  <img src="./images/writer-2.jpeg" alt="Author avatar"/>
                 </div>
                 <div className="article-text-byline-signature">
                   <div className="article-text-byline-signature-name">
@@ -101,14 +101,14 @@ class App extends React.Component {
                   </div>
                 </div>
                 <div className="article-text-byline-bookmark">
-                  <img src="./images/bookmark.png" alt=""/>
+                  <img src="./images/bookmark.png" alt="Bookmark icon"/>
                 </div>
               </div>
             </div>
           </div>
           <div className="article">
             <div className="article-image">
-              <img src="./images/medium-image-puff-4.jpeg" alt=""/>
+              <img src="./images/medium-image-puff-4.jpeg" alt="Photo of a man with his back to the camera, facing a crowd"/>
             </div>
             <div className="article-text">
               <div className="article-text-main">
@@ -117,7 +117,7 @@ class App extends React.Component {
               </div>
               <div className="article-text-byline">
                 <div className="article-text-byline-image">
-                  <img src="./images/writer-3.jpeg" alt=""/>
+                  <img src="./images/writer-3.jpeg" alt="Author avatar"/>
                 </div>
                 <div className="article-text-byline-signature">
                   <div className="article-text-byline-signature-name">
@@ -133,14 +133,14 @@ class App extends React.Component {
                   </div>
                 </div>
                 <div className="article-text-byline-bookmark">
-                  <img src="./images/bookmark.png" alt=""/>
+                  <img src="./images/bookmark.png" alt="Bookmark icon"/>
                 </div>
               </div>
             </div>
           </div>
           <div className="article">
             <div className="article-image">
-              <img src="./images/medium-image-puff-3.png" alt=""/>
+              <img src="./images/medium-image-puff-3.png" alt="Illustration of two people sitting in a café"/>
             </div>
             <div className="article-text">
               <div className="article-text-main">
@@ -149,7 +149,7 @@ class App extends React.Component {
               </div>
               <div className="article-text-byline">
                 <div className="article-text-byline-image">
-                  <img src="./images/writer-4.jpeg" alt=""/>
+                  <img src="./images/writer-4.jpeg" alt="Author avatar"/>
                 </div>
                 <div className="article-text-byline-signature">
                   <div className="article-text-byline-signature-name">
@@ -165,7 +165,7 @@ class App extends React.Component {
                   </div>
                 </div>
                 <div className="article-text-byline-bookmark">
-                  <img src="./images/bookmark.png" alt=""/>
+                  <img src="./images/bookmark.png" alt="Bookmark icon"/>
                 </div>
               </div>
             </div>
